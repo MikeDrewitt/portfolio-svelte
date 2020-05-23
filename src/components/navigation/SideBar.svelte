@@ -9,6 +9,7 @@
 
   const options = [
     { href: "/", label: "Home" },
+    { href: "ideas", label: "Ideas" },
     { href: "account", label: "Account" },
     { href: "about", label: "About" }
   ];
