@@ -26,7 +26,19 @@
     background-color: #fefefe;
     margin: auto;
     border: 1px solid #888;
-    width: 80%;
+    width: 30%;
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .modal-content {
+      width: 50%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .modal-content {
+      width: 90%;
+    }
   }
 </style>
 

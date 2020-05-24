@@ -42,7 +42,7 @@
         <li>Theming Engine</li>
         <li>Recreate a game</li>
         <li>Ideas List</li>
-        <li>Convert and user Typescript</li>
+        <li>Draw a path on a map</li>
       </ul>
 
       <h2>Api Ideas</h2>
